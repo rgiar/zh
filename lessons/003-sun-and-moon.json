@@ -1,0 +1,25 @@
+{
+  "id": 3,
+  "title": "Sun and Moon",
+  "radicals": [
+    { "character": "日", "meaning": "sun" },
+    { "character": "月", "meaning": "moon" },
+    { "character": "门", "meaning": "gate" },
+    { "character": "口", "meaning": "mouth" },
+    { "character": "心", "meaning": "heart" }
+  ],
+  "words": [
+    { "hanzi": "明", "pinyin": "ming2", "meaning": "bright", "radicals": ["日", "月"] },
+    { "hanzi": "早", "pinyin": "zao3", "meaning": "early", "radicals": ["日"] },
+    { "hanzi": "问", "pinyin": "wen4", "meaning": "ask", "radicals": ["门", "口"] },
+    { "hanzi": "想", "pinyin": "xiang3", "meaning": "think", "radicals": ["心"] }
+  ],
+  "reading": {
+    "sentence": "明天我想问老师。",
+    "translation": "Tomorrow I want to ask the teacher.",
+    "grammar": {
+      "title": "Time before subject or after subject",
+      "explanation": "Time words such as 明天 can appear at the start of the sentence or after the subject. Here 明天 sets the time for the whole sentence."
+    }
+  }
+}

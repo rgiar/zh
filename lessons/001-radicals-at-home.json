@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "title": "At Home",
+  "radicals": [
+    { "character": "宀", "meaning": "roof" },
+    { "character": "女", "meaning": "woman" },
+    { "character": "子", "meaning": "child" },
+    { "character": "口", "meaning": "mouth" }
+  ],
+  "words": [
+    { "hanzi": "家", "pinyin": "jia1", "meaning": "home", "radicals": ["宀"] },
+    { "hanzi": "好", "pinyin": "hao3", "meaning": "good", "radicals": ["女", "子"] },
+    { "hanzi": "叫", "pinyin": "jiao4", "meaning": "to be called", "radicals": ["口"] },
+    { "hanzi": "妈妈", "pinyin": "ma1 ma", "meaning": "mom", "radicals": ["女"] }
+  ],
+  "reading": {
+    "sentence": "我家很好。",
+    "translation": "My home is very good.",
+    "grammar": {
+      "title": "很 before adjectives",
+      "explanation": "In simple Chinese sentences, 很 often links the topic to an adjective: 我家很好 means 'my home is good.'"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "title": "Water and Tea",
+  "radicals": [
+    { "character": "氵", "meaning": "water" },
+    { "character": "艹", "meaning": "grass" },
+    { "character": "人", "meaning": "person" },
+    { "character": "木", "meaning": "wood" },
+    { "character": "口", "meaning": "mouth" }
+  ],
+  "words": [
+    { "hanzi": "水", "pinyin": "shui3", "meaning": "water", "radicals": ["氵"] },
+    { "hanzi": "茶", "pinyin": "cha2", "meaning": "tea", "radicals": ["艹", "人", "木"] },
+    { "hanzi": "喝", "pinyin": "he1", "meaning": "drink", "radicals": ["口"] },
+    { "hanzi": "人", "pinyin": "ren2", "meaning": "person", "radicals": ["人"] }
+  ],
+  "reading": {
+    "sentence": "他喝茶。",
+    "translation": "He drinks tea.",
+    "grammar": {
+      "title": "Subject verb object",
+      "explanation": "A basic Mandarin action sentence often follows subject, verb, object order: 他 is the subject, 喝 is the verb, and 茶 is the object."
+    }
+  }
+}
